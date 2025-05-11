@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8af03cfb77a82de43a431062338bf6b7, type: 3}
+  m_Name: GuardaoSabedoria2Dialogue
+  m_EditorClassIdentifier: 
+  NPCName: "Guardi\xE3o da Sabedoria"
+  dialogueLines:
+  - "Se queres restaurar o equil\xEDbrio... ter\xE1s de reunir todos os fragmentos.
+    S\xF3 assim a Ess\xEAncia da Harmonia poder\xE1 voltar a pulsar em Ysil'Thar."
+  - Encontra os restantes, Viajante!
+  autoProgressLines: 01
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  voiceSound: {fileID: 8300000, guid: e28d94bcd3e857d409de884462d597f0, type: 3}
+  voicePitch: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 10e9ef6014ac6a240b4a9cb60bc40421
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: faedfbbbed316884c8fcfde2ff446287
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: cea22ab412b0a974f81abdb9b5383a3a
+  - enabled: 1
+    path: Assets/Scenes/Snow.unity
+    guid: 4e098a3b65157ba4eb3cead5d3ae2c33
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 57284f6c810a74347b12ec451da500ac, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,4 @@
+repository "TM-jogo/TM-jogo@6872734581540@cloud"
+  path "/"
+    br "/main"
+    co "/main"
