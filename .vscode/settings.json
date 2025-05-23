@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TM-Jogo.sln"
+    "dotnet.defaultSolution": "LastBreath.sln"
 }

@@ -9078,7 +9078,7 @@ Tilemap:
       - {fileID: -2035379156054680241, guid: 48b3e00a4e8da4c429bb3919bc389911, type: 3}
       - {fileID: -769010915, guid: 48b3e00a4e8da4c429bb3919bc389911, type: 3}
       - {fileID: -1143508009, guid: 48b3e00a4e8da4c429bb3919bc389911, type: 3}
-      m_AnimationSpeed: 7.446821
+      m_AnimationSpeed: 7.6335225
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -10596,7 +10596,7 @@ MonoBehaviour:
   entranceGate: {fileID: 1171516848}
   exitGate: {fileID: 557862547}
   timerText: {fileID: 1110507621}
-  arenaDuration: 40
+  arenaDuration: 20
   spawnInterval: 4
 --- !u!1 &2028975367
 GameObject:
